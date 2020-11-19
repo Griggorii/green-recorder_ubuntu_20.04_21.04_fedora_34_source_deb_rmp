@@ -1,4 +1,4 @@
-# Beta adaptation Green Recorder
+# Beta adaptation Green Recorder glib-2.31
 
 # Green Recorder
 
