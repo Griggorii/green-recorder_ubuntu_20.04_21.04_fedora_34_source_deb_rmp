@@ -4,6 +4,10 @@
 
 $ dpkg-buildpackage -rfakeroot -b
 
+$ sudo ln -s /usr/bin/python2.7 /usr/bin/python2
+
+$ sudo ln -s /usr/bin/python2 /usr/bin/python
+
     sudo pip install pydbus
     
 Original source: https://github.com/mhsabbagh/green-recorder
