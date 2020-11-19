@@ -2,11 +2,16 @@
 
 # Green Recorder
 
-$ dpkg-buildpackage -rfakeroot -b
+$ sudo apt install python2.7 -y
 
 $ sudo ln -s /usr/bin/python2.7 /usr/bin/python2
 
 $ sudo ln -s /usr/bin/python2 /usr/bin/python
+
+Rub build install dependency folder source terminal run:
+
+$ dpkg-buildpackage -rfakeroot -b
+
 
     sudo pip install pydbus
     
