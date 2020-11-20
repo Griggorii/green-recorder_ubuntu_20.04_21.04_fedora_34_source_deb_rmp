@@ -1,4 +1,4 @@
-green-recorder (3.2.2-0ubuntu0) focal; urgency=medium
+green-recorder (3.2.2-0ubuntu1) focal; urgency=medium
 
     * No-change rebuild to drop python3
     Griggorii rebuild my generate
