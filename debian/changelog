@@ -1,6 +1,13 @@
 green-recorder (3.2.2-0ubuntu0) focal; urgency=medium
 
-    * No-change rebuild to drop python3.8d
+    * No-change rebuild to drop python3
+    Griggorii rebuild my generate
+
+ -- Griggorii <Griggorii@gmail.com>  Mon, 16 Nov 2020 10:44:35 +0100
+
+green-recorder (3.2.2-0ubuntu0) focal; urgency=medium
+
+    * No-change rebuild to drop python2.7 bad idea
     Griggorii rebuild my generate
 
  -- Griggorii <Griggorii@gmail.com>  Mon, 16 Nov 2020 10:44:35 +0100
