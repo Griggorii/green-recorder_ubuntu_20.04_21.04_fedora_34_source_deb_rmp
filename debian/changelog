@@ -1,6 +1,6 @@
 green-recorder (3.2.2-0ubuntu1) focal; urgency=medium
 
-    * No-change rebuild to drop python3
+    * No-change rebuild to drop python3 fix problem wayland , problem audio not fix
     Griggorii rebuild my generate
 
  -- Griggorii <Griggorii@gmail.com>  Fri, 20 Nov 2020 10:44:35 +0100
