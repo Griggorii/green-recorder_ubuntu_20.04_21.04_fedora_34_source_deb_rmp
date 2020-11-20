@@ -8,8 +8,6 @@ $ sudo rm /usr/bin/python3
 
 $ sudo ln -s /usr/bin/python3.8 /usr/bin/python3
 
-
-
 Rub build install dependency folder source terminal run:
 
 $ dpkg-buildpackage -rfakeroot -b
