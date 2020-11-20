@@ -18,6 +18,8 @@ $ dpkg-buildpackage -rfakeroot -b
     
 Original source: https://github.com/mhsabbagh/green-recorder
 
+Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
+
 
     
     
