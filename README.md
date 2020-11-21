@@ -1,6 +1,6 @@
 # Beta adaptation Green Recorder glib-2.31 migration build python3 gnome-screencast minimum problem audio output
 
-# Green Recorder wayland rec
+# Green Recorder wayland recorder
 
 Ubuntu package deb amd64 green-recorder download: https://github.com/Griggorii/green-recorder_ubuntu_20.04_source/releases/tag/ubuntu_20.04
 
@@ -20,7 +20,7 @@ Original source: https://github.com/mhsabbagh/green-recorder
 
 Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
 
-На данный момент не решена проблема записи в wayland webm со звуком , так что запись произведется , но звука может не быть
+На данный момент не решена проблема записи в wayland webm со звуком , так что запись произведется , но звука может не быть если вы выбрали не правильное звуковое устройство и его аудио выход.
 
 
     
