@@ -6,7 +6,7 @@ Ubuntu 21.04 Hirsute deb amd64 green-recorder download: https://github.com/Grigg
 
 Ubuntu 20.04 disco deb amd64 green-recorder download: https://github.com/Griggorii/green-recorder_ubuntu_20.04_21.04_source/releases/download/ubuntu_20.04/green-recorder_3.2.2-0ubuntu1_all.deb
 
-install run locate version green-recorder deb version ubuntu and different debian libc version:
+install run locate version green-recorder deb version ubuntu and different debian libc version Disco libc-2.31 | Hippo libc-2.33:
 
 $ sudo apt update && sudo dpkg -i *.deb && udo apt install -f
 
