@@ -6,6 +6,10 @@ Ubuntu 21.04 Hirsute deb amd64 green-recorder download: https://github.com/Grigg
 
 Ubuntu 20.04 disco deb amd64 green-recorder download: https://github.com/Griggorii/green-recorder_ubuntu_20.04_21.04_source/releases/download/ubuntu_20.04/green-recorder_3.2.2-0ubuntu1_all.deb
 
+install run locate version green-recorder deb version distr:
+
+$ sudo apt update && sudo dpkg -i *.deb && udo apt install -f
+
 Rebuild source and edited and fix tutorial:
 
 Install new python prof rebuild https://github.com/Griggorii/python3.8.5_20.04_new_rebuild_amd64.deb/releases/tag/python3.8.5_20.04_amd64.deb
