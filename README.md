@@ -2,7 +2,9 @@
 
 # Green Recorder wayland recorder
 
-Ubuntu package deb amd64 green-recorder download: https://github.com/Griggorii/green-recorder_ubuntu_20.04_source/releases/tag/ubuntu_20.04
+Ubuntu 21.04 Hirsute deb amd64 green-recorder download: https://github.com/Griggorii/green-recorder_ubuntu_20.04_21.04_source/releases/download/ubuntu_20.04/green-recorder_3.2.2-0ubuntu_21.04_all.deb
+
+Ubuntu 20.04 disco deb amd64 green-recorder download: https://github.com/Griggorii/green-recorder_ubuntu_20.04_21.04_source/releases/download/ubuntu_20.04/green-recorder_3.2.2-0ubuntu1_all.deb
 
 Rebuild source and edited and fix tutorial:
 
