@@ -1,6 +1,7 @@
 # Beta adaptation Green Recorder glib-2.31 migration build python3 gnome-screencast minimum problem audio output
+green-recorder  , support wayland , record wayland webm ,  ubuntu 20.04 , ubuntu 21.04 , fedora , deb package , rmp package
 
-# Green Recorder wayland recorder
+# Green Recorder wayland x11 recorder
 
 Ubuntu 21.04 Hirsute deb amd64 green-recorder download: https://github.com/Griggorii/green-recorder_ubuntu_20.04_21.04_source/releases/download/ubuntu_20.04/green-recorder_3.2.2-0ubuntu_21.04_all.deb
 
