@@ -10,9 +10,15 @@ Fedora 34 RPM package: https://github.com/Griggorii/green-recorder_ubuntu_20.04_
 
 ________________________________________________________________________________________________________________________________________________
 
-install run locate version green-recorder deb version ubuntu and different debian libc version Disco libc-2.31 | Hippo libc-2.33:
+Install run locate version green-recorder deb version ubuntu and different debian libc version Disco libc-2.31 | Hippo libc-2.33:
 
 $ sudo apt update && sudo dpkg -i *.deb && udo apt install -f
+
+Install fedora:
+
+$ sudo rpm -i ./green-recorder-3.2.2-1.noarch.rpm.rpm
+
+Example universal install rpm sudo rpm -i ./<my_name_package_file>.rpm
 
 Rebuild source and edited and fix tutorial:
 
