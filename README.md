@@ -11,7 +11,7 @@ Fedora 34 RPM package: https://github.com/Griggorii/green-recorder_ubuntu_20.04_
 
 ________________________________________________________________________________________________________________________________________________
 
-Install run locate version green-recorder deb version ubuntu and different debian libc version Disco libc-2.31 | Hippo libc-2.33:
+Install run locate version green-recorder deb version ubuntu and different debian libc version Disco Dingo libc-2.31 | Hirsute Hippo libc-2.33:
 
 $ sudo apt update && sudo dpkg -i *.deb && sudo apt install -f
 
