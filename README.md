@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 Install run locate version green-recorder deb version ubuntu and different debian libc version Disco libc-2.31 | Hippo libc-2.33:
 
-$ sudo apt update && sudo dpkg -i *.deb && udo apt install -f
+$ sudo apt update && sudo dpkg -i *.deb && sudo apt install -f
 
 Install fedora:
 
